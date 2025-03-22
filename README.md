@@ -2,7 +2,7 @@
 
 - 👩‍💻 A 3rd year CSE Bachelor at Thapar University, India 
 - 🔐 Cyber Security Enthusiast<br/>
-- 💻 Currently learning about Ethical Hacking<br/>
+- 💻 Currently learning working on a novel security related project<br/>
 - 🤔 Open to Security based book recommendation <br/>
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [(https://linkedin.com/in/Aanandi Sharma) 
 ](https://www.linkedin.com/in/aanandi-sharma-762596246/)
