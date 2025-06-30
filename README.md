@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-- 👩‍💻 A 3rd year CSE Bachelor at Thapar University, India 
+- 👩‍💻 Final year CSE Bachelor at Thapar University, India 
 - 🔐 Cyber Security Enthusiast<br/>
 - 💻 Currently working on a novel security related project<br/>
 - 🤔 Open to Security based book recommendation <br/>
